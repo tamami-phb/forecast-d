@@ -1,0 +1,6 @@
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/dwh
+    username: postgres
+    password: secret
